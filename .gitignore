@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (VERY IMPORTANT)
+data/
+*.csv
+*.tsv
+
+# Environments
+.env
+.venv
+ai-lab-report/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
