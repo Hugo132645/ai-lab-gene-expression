@@ -11,6 +11,9 @@ data/
 *.csv
 *.tsv
 
+# Notebook outputs (predictions, figures)
+outputs/
+
 # Environments
 .env
 .venv
