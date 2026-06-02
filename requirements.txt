@@ -8,3 +8,4 @@ umap-learn
 plotly
 scipy
 torch
+xgboost
