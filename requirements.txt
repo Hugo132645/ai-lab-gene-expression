@@ -9,3 +9,6 @@ plotly
 scipy
 torch
 xgboost
+shap
+dcor
+scikit-bio
